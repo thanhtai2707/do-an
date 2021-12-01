@@ -1,0 +1,17 @@
+:root{
+    --blue-color:rgb(0,99,177);
+    --white-color:rgb(242,243,245);
+    --all-transion: all 0.2s linear;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+    overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+}
